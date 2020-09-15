@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(95, 43, 23);
+}
+.heading{
+    background-color: rgb(255, 255, 37);
+    height: 140px;
+}
+.globle_logo img{
+    height: 100px;
+    width: 8%;
+    padding:1.8%;
+}
+h2{
+    text-align:center;
+    margin-top: -9%;
+    margin-right:53%;
+}
+h4{
+    text-align:center;
+    margin-top: -3%;
+    margin-right:55%;
+}
+.star img{
+    height:35px;
+    width: 3%;
+    padding-left: 11%;
+}
+
+.topnav{
+    float: right;
+    padding-right: 8%;
+    font-size: 18px;
+    margin-top: -5%;
+}
+a{
+    padding: 8px;
+}
+.phone_no{
+    float:right;
+    font-size: 20px;
+}
+
+.hotel_pic{
+    margin-right: 4%;
+    margin-left: 4%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+.sub_div{
+    display: flex;
+}
+.menu{
+    padding-left:4%;
+    padding-right: 4%;
+}
+.map{
+    padding-left:4%;
+    margin-top:-1%;
+}
+.ridge{
+    border-style: ridge;
+    /* width:100%; */
+    text-align: center;
+    text-transform: uppercase;
+    list-style-type: none;
+    background-color: black;
+    opacity: .8;
+   
+    /* position: relative;
+    bottom: 0%;
+    right: 0; */
+    /* color: white; */
+}
+#menu-tile:hover, #special_tittle:hover, #map-tittle:hover {
+    box-shadow: 0 1px 5px 1px #cccccc;
+  }
+.chawmin{
+    border-style: ridge;
+    text-align: center;
+    text-transform: uppercase;
+    list-style-type: none;
+    background-color: black;
+    opacity: .8;
+    position: relative;
+    color: white;
+}
+.google_map{
+    border-style: ridge;
+    text-align: center;
+    text-transform: uppercase;
+    list-style-type: none;
+    background-color: black;
+    opacity: .8;
+}
+
+.last_div1{
+    height:100%;
+    width: 100%;
+    background-color: black;
+}
+
+.panel-footer{
+    background-color: black;
+    margin-top: 40px;
+}
+
+.row{
+    color: white;
+    font-family: serif;
+    display: flex;
+}
+
+
+.r{
+    padding: 20px;
+    font-size: medium;
+    padding: 5%;
+    line-height: 2;
+}
+
+.text-center{
+    text-align: center;
+    color: white;
+    font-family: serif;
+}
